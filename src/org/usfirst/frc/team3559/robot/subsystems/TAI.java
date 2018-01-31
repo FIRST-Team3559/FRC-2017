@@ -4,7 +4,7 @@ import edu.wpi.first.wpilibj.DigitalOutput;
 import edu.wpi.first.wpilibj.command.Subsystem;
 
 /**
- *
+ *  Target Acquisition Indicator (flashlight)
  */
 public class TAI extends Subsystem {
 	private static DigitalOutput relaySwitch = new DigitalOutput(0);
